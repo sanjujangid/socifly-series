@@ -4,9 +4,9 @@ A simple theme for ecommerce and others
 SociFly is a Multipurpose Social Network HTML5 Template designed to build any kinds of Social Networking Website. It's an HTML5 template based on latest stable Bootstrap 3.3.7. Anyone can easily update/edit this plugin to follow our Well Sorted Documentation.
 
 
-==========================================================================
-Well Sorted Documentation included in "main_files/documentation" (folder).
-==========================================================================
+==========================
+Well Sorted Documentation
+==========================
 
 
 SOURCE AND CREADITS:
